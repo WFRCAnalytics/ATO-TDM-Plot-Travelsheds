@@ -40,25 +40,14 @@ New,transit,drive,40,45,4,0.15 - 0.19
 New,transit,drive,45,50,3,0.10 - 0.15
 New,transit,drive,50,55,2,0.05 - 0.09
 New,transit,drive,55,60,1,0.00 - 0.04
-Old,transit,walk,0,3,11,1
-Old,transit,walk,3,7.25,10,0.90 - 0.99
-Old,transit,walk,7.25,9.75,9,0.80 - 0.89
-Old,transit,walk,9.75,12.25,8,0.70 - 0.79
-Old,transit,walk,12.25,14.5,7,0.60 - 0.69
-Old,transit,walk,14.5,17.25,6,0.50 - 0.59
-Old,transit,walk,17.25,20.25,5,0.40 - 0.49
-Old,transit,walk,20.25,23.75,4,0.30 - 0.39
-Old,transit,walk,23.75,29.25,3,0.20 - 0.29
-Old,transit,walk,29.25,39.25,2,0.10 - 0.19
-Old,transit,walk,39.25,60,1,0.00 - 0.09
-Old,transit,drive,0,3,11,1
-Old,transit,drive,3,7.25,10,0.90 - 0.99
-Old,transit,drive,7.25,9.75,9,0.80 - 0.89
-Old,transit,drive,9.75,12.25,8,0.70 - 0.79
-Old,transit,drive,12.25,14.5,7,0.60 - 0.69
-Old,transit,drive,14.5,17.25,6,0.50 - 0.59
-Old,transit,drive,17.25,20.25,5,0.40 - 0.49
-Old,transit,drive,20.25,23.75,4,0.30 - 0.39
-Old,transit,drive,23.75,29.25,3,0.20 - 0.29
-Old,transit,drive,29.25,39.25,2,0.10 - 0.19
-Old,transit,drive,39.25,60,1,0.00 - 0.09
+Old,transit,both,0,3,11,1
+Old,transit,both,3,7.25,10,0.90 - 0.99
+Old,transit,both,7.25,9.75,9,0.80 - 0.89
+Old,transit,both,9.75,12.25,8,0.70 - 0.79
+Old,transit,both,12.25,14.5,7,0.60 - 0.69
+Old,transit,both,14.5,17.25,6,0.50 - 0.59
+Old,transit,both,17.25,20.25,5,0.40 - 0.49
+Old,transit,both,20.25,23.75,4,0.30 - 0.39
+Old,transit,both,23.75,29.25,3,0.20 - 0.29
+Old,transit,both,29.25,39.25,2,0.10 - 0.19
+Old,transit,both,39.25,60,1,0.00 - 0.09
